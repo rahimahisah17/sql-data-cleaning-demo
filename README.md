@@ -6,7 +6,7 @@ Demonstration of essential SQL queries and techniques used for data cleaning and
 
 This repository is the home for the **15-minute data cleaning demonstration** using SQL. Watch the full video below for a step-by-step walkthrough of essential cleaning techniques.
 
-[**▶️ WATCH THE DEMO VIDEO ON YOUTUBE**](**[https://youtu.be/kcAiomOTDIs]**) 
+[WATCH THE DEMO VIDEO ON YOUTUBE](https://youtu.be/kcAiomOTDIs)
 ---
 
 ## 🎯 Skills Demonstrated in This Project
